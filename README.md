@@ -6,7 +6,7 @@ We plots the samples in the 2D space where the horizontal axis corresponds to th
 
 ![image](https://user-images.githubusercontent.com/96924468/224837758-e36a4246-a644-43a5-8a59-8043b17fecd4.png)
 
-We can also use the first three attributes, sepal length, sepal width and petal length, to define a 3D space and plot the samples in this space
+We can also use the first three attributes, ```sepal length```, ```sepal width``` and ```petal length```, to define a 3D space and plot the samples in this space
 
 ![image](https://user-images.githubusercontent.com/96924468/226051447-405481e3-6234-4faf-a42d-0bdba6b95358.png)
 
