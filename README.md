@@ -10,5 +10,7 @@ We can also use the first three attributes, ```sepal length```, ```sepal width``
 
 ![image](https://user-images.githubusercontent.com/96924468/226051447-405481e3-6234-4faf-a42d-0bdba6b95358.png)
 
+### Choosing the value of K in the K-means algorithm
+
 
 
