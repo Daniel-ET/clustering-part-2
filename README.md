@@ -24,3 +24,5 @@ The DBSCAN algorithm builds clusters based on the notion of connectivity. We wil
 
 ![image](https://user-images.githubusercontent.com/96924468/227001655-85242c47-bc9c-4d1f-8af0-8aa49980051e.png)
 
+DBSCAN proceeds by obtaining the density of samples around each sample. The density is estimated by counting the number of samples within a given radius. If this number is greater than a pre-specified threshold, DBSCAN treats the sample as a core sample, otherwise it will be a border sample.
+
