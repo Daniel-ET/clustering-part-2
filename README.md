@@ -16,4 +16,7 @@ Before applying the K-means algorithm we need to decide how many clusters we wan
 
 Now plot the overall distance between samples in each cluster and their centroid as a function of K for the train and validation sets.
 
+![image](https://user-images.githubusercontent.com/96924468/227001079-d54ea9a5-c24f-4037-8c1c-0e79c0c7ffa9.png)
+
+
 
