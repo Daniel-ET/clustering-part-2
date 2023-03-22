@@ -26,3 +26,9 @@ The DBSCAN algorithm builds clusters based on the notion of connectivity. We wil
 
 DBSCAN proceeds by obtaining the density of samples around each sample. The density is estimated by counting the number of samples within a given radius. If this number is greater than a pre-specified threshold, DBSCAN treats the sample as a core sample, otherwise it will be a border sample.
 
+Different thresholds produce different solutions. We obtain and plot the number of clusters and outliers identified by DBSCAN for different threshold values. Note that the 4 attributes of the dataset are used by DBSCAN.
+
+![image](https://user-images.githubusercontent.com/96924468/227003012-b9fda095-2cd1-46c5-b9cc-ad009562d0ea.png)
+![image](https://user-images.githubusercontent.com/96924468/227003111-90452127-8e49-4ac9-9c13-58bb51650dc3.png)
+
+Note how the number of clusters decrease as we increase the threshold.
