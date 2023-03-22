@@ -20,5 +20,5 @@ Now plot the overall distance between samples in each cluster and their centroid
 
 ## DBSCAN
 
-
+The DBSCAN algorithm builds clusters based on the notion of connectivity. We will first visualise a clustering solution on the 2D space formed by the ```sepal length``` and the ```sepal width``` attributes. In addition to 2 clusters (red and blue samples), DBSCAN returns outlier samples that are not assigned to any cluster.
 
