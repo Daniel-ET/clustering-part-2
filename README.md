@@ -10,13 +10,15 @@ We can also use the first three attributes, ```sepal length```, ```sepal width``
 
 ![image](https://user-images.githubusercontent.com/96924468/226051447-405481e3-6234-4faf-a42d-0bdba6b95358.png)
 
-### Choosing the value of K in the K-means algorithm
+## Choosing the value of K in the K-means algorithm
 
 Before applying the K-means algorithm we need to decide how many clusters we want to create. We will train the K-means algorithm with half of the iris dataset (training set) and then will obtain the overall distance between samples in the other half of the iris dataset (validation set) and the final centroid. This procedure will be carried out for several values of K, from 1 to 15.
 
 Now plot the overall distance between samples in each cluster and their centroid as a function of K for the train and validation sets.
 
 ![image](https://user-images.githubusercontent.com/96924468/227001079-d54ea9a5-c24f-4037-8c1c-0e79c0c7ffa9.png)
+
+## DBSCAN
 
 
 
