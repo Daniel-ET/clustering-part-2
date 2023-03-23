@@ -32,3 +32,5 @@ Different thresholds produce different solutions. We obtain and plot the number 
 ![image](https://user-images.githubusercontent.com/96924468/227003111-90452127-8e49-4ac9-9c13-58bb51650dc3.png)
 
 Note how the number of clusters decrease as we increase the threshold.
+
+## Hierarchical Clustering
