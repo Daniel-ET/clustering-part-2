@@ -34,3 +34,5 @@ Different thresholds produce different solutions. We obtain and plot the number 
 Note how the number of clusters decrease as we increase the threshold.
 
 ## Hierarchical Clustering
+
+Hierarchical clustering builds clustering arrangements at different levels.
