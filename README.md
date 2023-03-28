@@ -35,4 +35,6 @@ Note how the number of clusters decrease as we increase the threshold.
 
 ## Hierarchical Clustering
 
-Hierarchical clustering builds clustering arrangements at different levels.
+Hierarchical clustering builds clustering arrangements at different levels. We can apply an agglomerative clustering algorithm on the iris dataset and obtain the resulting dendrogram
+
+
