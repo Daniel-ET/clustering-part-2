@@ -37,4 +37,7 @@ Note how the number of clusters decrease as we increase the threshold.
 
 Hierarchical clustering builds clustering arrangements at different levels. We can apply an agglomerative clustering algorithm on the iris dataset and obtain the resulting dendrogram
 
+![image](https://user-images.githubusercontent.com/96924468/228095407-5a7cdc03-ac94-43f0-bfe6-8757550d3ea5.png)
+
+Branching in the dendrogram represents one of the clusters at one level being split. Note that the dendrogram includes the number of samples in each cluster at the lowest level between parenthesis or the sample index if the cluster consists of just one sample.
 
